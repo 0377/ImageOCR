@@ -8,7 +8,7 @@
 
 ## Install
 ```
-composer require mohuishou/image-ocr
+composer require 0377/image-ocr
 ```
 
 ## 使用方法
